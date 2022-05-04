@@ -17,7 +17,7 @@
 	},
 	"homepage": "https://github.com/haroldpark/time-spent-on-overwatch#readme",
 	"dependencies": {
-		"angular": "^1.7.9",
+		"angular": "^1.8.3",
 		"angular-ui-router": "^1.0.24",
 		"body-parser": "^1.15.2",
 		"bootstrap": "^4.4.1",
